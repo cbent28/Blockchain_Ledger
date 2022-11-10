@@ -16,12 +16,12 @@ Test your completed PyChain ledger.
 
 You’ll also update the README.md file in your GitHub repository to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
 
-Files
+# Files
 Download the following files to help you get started:
 
 Module 18 Challenge files
 
-Instructions
+# Instructions
 Open the provided pychain.py file, which you’ll use to complete the steps for this Challenge. Notice that the PyChain ledger that you built throughout this module already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
 
 The steps for this Challenge are divided into the following sections:
